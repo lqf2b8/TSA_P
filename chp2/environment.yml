@@ -1,0 +1,8 @@
+name: TSAwP_chp2
+channels:
+  - defaults
+dependencies:
+  - python==3.10
+  - pandas
+  - ipykernel
+prefix: /home/lfields/anaconda3/envs/TSAwP_chp2
