@@ -5,4 +5,5 @@ dependencies:
   - python==3.10
   - pandas
   - ipykernel
+  - openpyxl
 prefix: /home/lfields/anaconda3/envs/TSAwP_chp2
